@@ -11,15 +11,8 @@
 
 ---
 
-<div style="display: flex; align-items: center; gap: 15px;">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LkcnWBYtKpePrpoOFu0M8G8digUKXGiSOQ&s" 
-     alt="Пингвин" 
-     style="width:50px; height:50px; border-radius: 20px;">
-    
-<div>
 
-
-# **Я хоть и не делал ничего, но ради зачёты и чтобы вы не так злились, сделал как смог**
+# **Я хоть и не делал ничего, но ради зачёта и чтобы вы не так злились, сделал как смог**
 
 Тюкин Михаил отдал всего себя
 
